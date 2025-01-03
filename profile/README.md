@@ -1,11 +1,12 @@
-<br><h1 align="center"> <a href="https://3tekken.com">Play Now</a></h1>
+<h1 align="center"> <a href="https://3tekken.com">Play Now</a></h1>
 <a href="https://3tekken.com">
   <img src="https://3tekken.com/wp-content/uploads/2024/12/3tekken.com-play-tekken-3-online-2.webp" alt="Tekken 3 Logo" align="center">
 </a>
-<br>
-If you're a fan of classic fighting games, **Tekken 3** is one of the best arcade and PlayStation games of all time. Now, you can **play Tekken 3 online for free** without downloading anything! Whether you want to relive childhood memories or experience the action for the first time, you can jump into the game instantly on your browser.
 
-In this guide, I’ll cover everything you need to know about **Tekken 3 Online**, including how to **play, controls, characters, and tips** to master the game. Let’s get started!
+<br>
+If you're a fan of classic fighting games, Tekken 3 is one of the best arcade and PlayStation games of all time. Now, you can play Tekken 3 online for free without downloading anything! Whether you want to relive childhood memories or experience the action for the first time, you can jump into the game instantly on your browser.
+
+In this guide, I’ll cover everything you need to know about Tekken 3 Online, including how to play, controls, characters, and tips to master the game. Let’s get started!
 
 ---
 
